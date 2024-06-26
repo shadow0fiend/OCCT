@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="OCCT-Project">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/product.zip!/" />
+      <root url="jar://$PROJECT_DIR$/cmake-3.29.3.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
