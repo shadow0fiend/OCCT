@@ -6,3 +6,5 @@
 QT下载链接：https://download.qt.io/archive/qt/
 
 OCC源码下载链接：https://dev.opencascade.org/release
+
+OCCT官方文档解释：https://dev.opencascade.org/doc/occt-7.0.0/refman/html/index.html
